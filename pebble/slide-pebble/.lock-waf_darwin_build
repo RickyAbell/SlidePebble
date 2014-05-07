@@ -1,0 +1,8 @@
+argv = ['/Users/Ricky/pebble-dev/PebbleSDK-2.0.2/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': '06480F68-B51E-4F11-8767-3B2C8A968EC1', 'SSH_AUTH_SOCK': '/tmp/launch-syLg57/Listeners', 'PYTHONPATH': '/Users/Ricky/pebble-dev/PebbleSDK-2.0.2/bin/../.env/lib/python2.7/site-packages', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'Ricky', 'USER': 'Ricky', 'HOME': '/Users/Ricky', 'PATH': '/Users/Ricky/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin:/Users/Ricky/pebble-dev/PebbleSDK-2.0.2/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin', 'TMPDIR': '/var/folders/rp/l9ntkyq94g9_shjmhmpms3sw0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-6CuLHD/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'SECURITYSESSIONID': '186a4', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/Ricky/Documents/code/SlidePebble/pebble/slide-pebble', '_': '/Users/Ricky/pebble-dev/PebbleSDK-2.0.2/Pebble/waf', '__CHECKFIX1436934': '1', 'PEBBLE_PHONE': '10.0.0.102'}
+files = ['/Users/Ricky/Documents/code/SlidePebble/pebble/slide-pebble/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/Ricky/Documents/code/SlidePebble/pebble/slide-pebble/build'
+run_dir = '/Users/Ricky/Documents/code/SlidePebble/pebble/slide-pebble'
+top_dir = '/Users/Ricky/Documents/code/SlidePebble/pebble/slide-pebble'

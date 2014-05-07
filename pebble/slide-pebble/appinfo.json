@@ -1,0 +1,29 @@
+{
+  "uuid": "ec535f31-46aa-4797-b427-d1c0b12ab613",
+  "shortName": "Slide Pebble",
+  "longName": "SlidePebble",
+  "companyName": "Ricky Abell",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "previousSlide": 0,
+    "nextSlide": 1
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_PREVIOUS_BUTTON",
+        "file": "img/previous.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_NEXT_BUTTON",
+        "file": "img/next.png"
+      }
+    ]
+  }
+}
