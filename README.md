@@ -20,11 +20,11 @@ A JavaScript file to include in your presentation that opens the socket connecti
 ###Server
 Install [Node](http://nodejs.org/download/)
 
-Navigate to the folder server
+Navigate to the folder *server*
 
 Install dependencies `npm install`
 
-Run it `node server/slidePebbleServer.js`
+Run it `node slidePebbleServer.js`
 
 ###Pebble
 Install the [Pebble SDK](https://developer.getpebble.com/2/getting-started/)
@@ -62,7 +62,7 @@ initSlidePebble('http://x.x.x.x:3030/SlideController/listen', previousSlide, nex
 
 ##Future work
 Some potential features for the future are
-* Move server url out of Pebble app and let it be set by the Pebble iOS/Android app configuration window using Pebble JavaScript. This requires hosting for the configuration page.
+* Move server url out of the Pebble app and let it be set by the Pebble iOS/Android app configuration window using Pebble JavaScript. This requires hosting for the configuration page.
 * Display a timer in the Pebble app.
 * Display slide number in the Pebble app.
 * Display speaker notes in the Pebble app.
