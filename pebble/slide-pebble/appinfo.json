@@ -1,10 +1,10 @@
 {
   "uuid": "ec535f31-46aa-4797-b427-d1c0b12ab613",
   "shortName": "Slide Pebble",
-  "longName": "SlidePebble",
+  "longName": "Slide Pebble",
   "companyName": "Ricky Abell",
   "versionCode": 1,
-  "versionLabel": "1.0.0",
+  "versionLabel": "1.0",
   "watchapp": {
     "watchface": false
   },
@@ -25,5 +25,10 @@
         "file": "img/next.png"
       }
     ]
-  }
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
 }

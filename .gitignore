@@ -2,3 +2,4 @@
 build
 node_modules
 .DS_Store
+pebble/slide-pebble/.lock-waf_darwin_build

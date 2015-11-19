@@ -1,5 +1,5 @@
-//These values need to move to Pebble iOS/Android app configuration window using Pebble JavaScript
-var SLIDE_CONTROLLER_URL = 'http://10.0.0.106:3030/SlideController';
+// These values need to move to Pebble iOS/Android app configuration window using Pebble JavaScript
+var SLIDE_CONTROLLER_URL = 'http://192.168.0.9:3030/SlideController';
 var PREVIOUS_SLIDE_URL = SLIDE_CONTROLLER_URL + '/previous';
 var NEXT_SLIDE_URL = SLIDE_CONTROLLER_URL + '/next';
 
